@@ -1,4 +1,3 @@
-
 # Lightning, HTTP 402, and the Emergence of a Machine-Native Payment Layer
 
 *Reviving HTTP 402 and Enabling Machine-Native Payments*
