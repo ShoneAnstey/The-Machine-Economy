@@ -1,5 +1,7 @@
 # The Machine Economy
 
+![The Machine Economy Header](./assets/header.png)
+
 **Enabling the Machine Economy: AI Agents, Bitcoin Lightning, and Protocol-Native Payments**
 
 ## Overview
