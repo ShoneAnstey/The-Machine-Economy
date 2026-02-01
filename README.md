@@ -26,12 +26,14 @@ This paper argues that Bitcoin’s Lightning Network fulfills the original techn
 *   **Agent Autonomy:** How AI agents use Lightning for key-native identity, liquidity management, and resource negotiation.
 *   **Economic Validation:** Reframing "validation" as an economic primitive using conditional payments (HTLCs).
 
+## Disclaimer
+This document is for informational purposes only and does not constitute financial, legal, or investment advice.
+
+## Attribution
+Conceptualized by [Shone Anstey](https://x.com/shoneanstey), co-author of *Trust and the Rise of Bitcoin*. With the help of many agents
+Licensed under the [MIT License](./LICENSE).
+
 ## License
-
-This repository is open-sourced under the **MIT License**.  
-Fork it, extend it, cite it — Bitcoin is for builders.  
+This repository is open-sourced under the **MIT License**.
+Fork it, extend it, cite it — Bitcoin is for builders.
 See the [LICENSE](./LICENSE) file for full legal details.
-
----
-
-_Conceptualized by [Shone Anstey](https://x.com/shoneanstey)._
