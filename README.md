@@ -33,7 +33,7 @@ This paper argues that Bitcoin’s Lightning Network fulfills the original techn
 This document is for informational purposes only and does not constitute financial, legal, or investment advice.
 
 ## Attribution
-Conceptualized by [Shone Anstey](https://x.com/shoneanstey), co-author of *Trust and the Rise of Bitcoin*. With the help of many agents
+Conceptualized by [Shone Anstey](https://x.com/shoneanstey), co-author of *Trust and the Rise of Bitcoin*. With the help of many agents.
 Licensed under the [MIT License](./LICENSE).
 
 ## License
