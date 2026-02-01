@@ -1,0 +1,12 @@
+# Local / maintenance files (not part of the published repo)
+commit_log.txt
+rebase_editor.py
+rebase_debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
