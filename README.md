@@ -13,6 +13,7 @@ As AI agents become increasingly autonomous, they require a financial rail that 
 ## Featured Research
 
 ### [Lightning, HTTP 402, and the Emergence of a Machine-Native Payment Layer](./AI_Agents_and_the_Lightning_Network.md)
+[📄 **Download as PDF**](./AI_Agents_and_the_Lightning_Network.pdf)
 
 **Date:** February 1, 2026  
 **Author:** Shone Anstey (@shoneanstey), CEO, LQWD Technologies Corp (TSX: LQWD)
